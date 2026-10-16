@@ -1,6 +1,6 @@
-# Customer Editing Guide — Namratha V & Srihari W Wedding Invitation
+# Customer Editing Guide — Namratha & Srihari Wedding Invitation
 
-This template is an illustrated wedding invitation for Namratha V & Srihari W featuring a tap-to-open video opener gate, custom monogram, background music player, parents blessing card, celebration events (Reception & Wedding Muhurtham), interactive lantern-wish animation, venue map, and family compliments.
+This template is an illustrated wedding invitation for Namratha & Srihari featuring a tap-to-open video opener gate, custom monogram, background music player, parents blessing card, celebration events (Reception & Wedding Muhurtham), interactive lantern-wish animation, venue map, and family compliments.
 
 ---
 
@@ -11,8 +11,8 @@ All routine customer edits are configured in:
 
 ### Couple & Parents Names
 Edit `couple` in `editable/wedding-data.js`:
-- `bride`: "Namratha V"
-- `groom`: "Srihari W"
+- `bride`: "Namratha"
+- `groom`: "Srihari"
 - `brideParents`: "A Sandhya Prasad & R Venkatesh Prasad"
 - `groomParents`: "Sumana T & Surendranath W"
 - `compliments`: "Amrutha V"
