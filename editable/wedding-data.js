@@ -62,7 +62,8 @@ window.WEDDING_DATA = {
     hero: "./editable/assets/hero-arch.jpg",
     venueMap: "./editable/assets/venue-map-Wf_iSDI1.jpg",
     footerWash: "./editable/assets/footer-wash-DG1rtX_C.jpg",
-    openerImage: "./editable/assets/opener-card.jpg",
+    heroCard: "./editable/assets/opener-card.jpg",
+    openerVideo: "./editable/assets/wedding-opener.mp4",
   },
 
   music: {
