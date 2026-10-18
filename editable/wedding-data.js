@@ -62,7 +62,7 @@ window.WEDDING_DATA = {
     hero: "./editable/assets/hero-arch.jpg",
     venueMap: "./editable/assets/venue-map-Wf_iSDI1.jpg",
     footerWash: "./editable/assets/footer-wash-DG1rtX_C.jpg",
-    openerVideo: "./editable/assets/wedding-opener.mp4",
+    openerImage: "./editable/assets/opener-card.jpg",
   },
 
   music: {
@@ -71,3 +71,4 @@ window.WEDDING_DATA = {
     autoplay: true,
   },
 };
+

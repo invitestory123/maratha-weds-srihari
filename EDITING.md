@@ -1,6 +1,6 @@
 # Customer Editing Guide — Namratha & Srihari Wedding Invitation
 
-This template is an illustrated wedding invitation for Namratha & Srihari featuring a tap-to-open video opener gate, custom monogram, background music player, parents blessing card, celebration events (Reception & Wedding Muhurtham), interactive lantern-wish animation, venue map, and family compliments.
+This template is an illustrated wedding invitation for Namratha & Srihari featuring a tap-to-open illustrated couple card opener gate, custom monogram, background music player, parents blessing card, celebration events (Reception & Wedding Muhurtham), interactive lantern-wish animation, venue map, and family compliments.
 
 ---
 
@@ -36,13 +36,13 @@ Replace files directly in `editable/assets/` or update paths in `editable/weddin
 - Couple walking illustration: `editable/assets/couple-walking.png`
 - Hero floral arch backdrop: `editable/assets/hero-arch.jpg`
 - Background music: `editable/assets/bgm.mp3`
-- Opener video: `editable/assets/wedding-opener.mp4`
+- Opener image: `editable/assets/opener-card.jpg`
 
 ---
 
 ## Special Sections & Features
 
-- **Tap-to-Open Video Gate**: Plays opening video sequence before revealing the wedding invitation.
+- **Tap-to-Open Opener Gate**: Displays the couple illustration opening card with symbol, names, and portrait before revealing the wedding invitation.
 - **Background Music Player**: Floating audio control button playing "A Thousand Years" piano cover with auto-unlock on interaction.
 - **Send a Wish**: Interactive lantern release animation upon clicking "Release lanterns".
 - **Multi-Event Calendar Export**: Downloadable `.ics` file containing Reception and Muhurtham.
