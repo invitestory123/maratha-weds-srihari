@@ -29,7 +29,7 @@ window.WEDDING_DATA = {
   events: [
     {
       name: "Reception",
-      glyph: "🥂",
+      glyph: "🪷",
       date: "Wednesday, 25 Nov 2026",
       time: "7:00 PM onwards",
       venue: "Brigade MLR Convention Centre",

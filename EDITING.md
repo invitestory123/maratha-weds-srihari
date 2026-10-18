@@ -46,6 +46,5 @@ Replace files directly in `editable/assets/` or update paths in `editable/weddin
 - **Tap-to-Open Video Gate**: Plays opening video sequence before revealing the wedding invitation.
 - **Cover Hero Page**: Displays the couple portrait card with symbol and names as the opening page of the invitation.
 - **Background Music Player**: Floating audio control button playing "A Thousand Years" piano cover with auto-unlock on interaction.
-- **Send a Wish**: Interactive lantern release animation upon clicking "Release lanterns".
 - **Multi-Event Calendar Export**: Downloadable `.ics` file containing Reception and Muhurtham.
 - **Scroll Reveal**: Sections fade and slide into view on scroll.
