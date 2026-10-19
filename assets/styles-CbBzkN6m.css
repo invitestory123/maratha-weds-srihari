@@ -61,7 +61,7 @@
   font-size: clamp(3.4rem, 10vw, 4.4rem) !important;
   font-weight: 400 !important;
   line-height: 1.15 !important;
-  color: #2b1f16 !important;
+  color: #7b5629 !important;
   letter-spacing: 0.02em !important;
   text-shadow: 0 1px 2px rgba(255, 255, 255, 0.9) !important;
   margin-bottom: 0.35rem !important;
@@ -70,7 +70,7 @@
   font-family: 'Allura', 'Great Vibes', cursive !important;
   font-size: clamp(1.45rem, 4.4vw, 1.85rem) !important;
   font-weight: 400 !important;
-  color: #2b1f16 !important;
+  color: #7b5629 !important;
   line-height: 1.25 !important;
   letter-spacing: 0.02em !important;
   white-space: nowrap !important;
@@ -88,7 +88,7 @@
   font-size: clamp(0.66rem, 2vw, 0.75rem) !important;
   text-transform: uppercase !important;
   letter-spacing: 0.24em !important;
-  color: #8c7b6e !important;
+  color: #9c826b !important;
   margin-bottom: 0.2rem !important;
 }
 .invite-with {
@@ -103,7 +103,7 @@
   font-weight: 400 !important;
   letter-spacing: 0.02em !important;
   line-height: 1.15 !important;
-  color: #2c241e !important;
+  color: #7b5629 !important;
   overflow: visible !important;
   white-space: normal !important;
 }
@@ -116,4 +116,104 @@
   text-shadow: 0 2px 14px rgba(0, 0, 0, 0.85), 0 0 6px rgba(0, 0, 0, 0.95) !important;
   letter-spacing: 0.02em !important;
   display: block !important;
+}
+
+
+/* Soothing colors & enhanced typography */
+.event-name {
+  font-family: 'Allura', 'Great Vibes', cursive !important;
+  font-size: clamp(2.35rem, 6.5vw, 2.9rem) !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.02em !important;
+  line-height: 1.15 !important;
+  color: #7b5629 !important;
+  overflow: visible !important;
+  white-space: normal !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8) !important;
+}
+.event-date {
+  font-size: 0.65rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.18em !important;
+  color: #8c7866 !important;
+  line-height: 1.6 !important;
+}
+.event-time {
+  font-size: 0.74rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.14em !important;
+  font-weight: 600 !important;
+  color: #644c36 !important;
+  line-height: 1.6 !important;
+}
+.venue-name {
+  font-family: 'Allura', 'Great Vibes', cursive !important;
+  font-size: clamp(2.35rem, 6.5vw, 3rem) !important;
+  font-weight: 400 !important;
+  color: #7b5629 !important;
+  line-height: 1.2 !important;
+  letter-spacing: 0.02em !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8) !important;
+}
+.venue-address {
+  font-family: 'Jost', sans-serif !important;
+  font-size: clamp(0.78rem, 2.4vw, 0.88rem) !important;
+  letter-spacing: 0.1em !important;
+  color: #8c7866 !important;
+  line-height: 1.55 !important;
+  margin-top: 0.35rem !important;
+}
+.save-our-date-title {
+  font-family: 'Allura', 'Great Vibes', cursive !important;
+  font-size: clamp(2.4rem, 6.8vw, 3.2rem) !important;
+  font-weight: 400 !important;
+  line-height: 1.2 !important;
+  color: #b58d4a !important;
+  display: block !important;
+  margin-bottom: 0.4rem !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8) !important;
+}
+.footer-wait-title {
+  font-family: 'Allura', 'Great Vibes', cursive !important;
+  font-size: clamp(2.2rem, 6.2vw, 2.9rem) !important;
+  font-weight: 400 !important;
+  line-height: 1.25 !important;
+  color: #7b5629 !important;
+  display: block !important;
+  margin-bottom: 0.4rem !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.85) !important;
+}
+.footer-couple-name {
+  font-family: 'Allura', 'Great Vibes', cursive !important;
+  font-size: clamp(3.2rem, 9.5vw, 4.4rem) !important;
+  font-weight: 400 !important;
+  line-height: 1.15 !important;
+  color: #7b5629 !important;
+  letter-spacing: 0.02em !important;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.9) !important;
+}
+.footer-couple-name .footer-amp,
+.footer-couple-name .script {
+  font-family: 'Allura', cursive !important;
+  font-size: 0.9em !important;
+  color: #b58d4a !important;
+  margin: 0 0.15em !important;
+}
+.footer-scene .grid-cols-2 p.text-muted-foreground {
+  font-family: 'Jost', sans-serif !important;
+  font-size: 0.68rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.22em !important;
+  color: #9c826b !important;
+}
+.footer-scene .grid-cols-2 p.font-display {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  color: #7b5629 !important;
+  letter-spacing: 0.04em !important;
+}
+.footer-scene .space-y-1\.5 p {
+  color: #7b5629 !important;
+  font-weight: 500 !important;
 }
