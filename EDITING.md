@@ -43,8 +43,8 @@ Replace files directly in `editable/assets/` or update paths in `editable/weddin
 
 ## Special Sections & Features
 
-- **Tap-to-Open Video Gate**: Plays opening video sequence before revealing the wedding invitation.
-- **Cover Hero Page**: Displays the couple portrait card with symbol and names as the opening page of the invitation.
+- **Cover Hero Page**: Displays the couple portrait card with symbol and names as the opening page of the invitation, opening directly with no flashing gates.
+- **Royal Typography**: Cormorant Garamond serif headings for couple names and celebration events, with graceful cursive script for parents' names (one per line).
 - **Background Music Player**: Floating audio control button playing "A Thousand Years" piano cover with auto-unlock on interaction.
 - **Multi-Event Calendar Export**: Downloadable `.ics` file containing Reception and Muhurtham.
 - **Scroll Reveal**: Sections fade and slide into view on scroll.
