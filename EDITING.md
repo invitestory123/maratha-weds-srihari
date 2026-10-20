@@ -44,7 +44,7 @@ Replace files directly in `editable/assets/` or update paths in `editable/weddin
 ## Special Sections & Features
 
 - **Cover Hero Page**: Displays the couple portrait card with symbol and names as the opening page of the invitation, opening directly with no flashing gates.
-- **Royal Typography**: Cormorant Garamond serif headings for couple names and celebration events, with graceful cursive script for parents' names (one per line).
+- **Royal Typography**: Highlighted Great Vibes calligraphy script in royal burgundy for couple names, Cinzel for invocations and relation titles, neat and uniform Cormorant Garamond serif for parents' names, and refined Cormorant Garamond for venue and event headings.
 - **Background Music Player**: Floating audio control button playing "A Thousand Years" piano cover with auto-unlock on interaction.
 - **Multi-Event Calendar Export**: Downloadable `.ics` file containing Reception and Muhurtham.
 - **Scroll Reveal**: Sections fade and slide into view on scroll.
