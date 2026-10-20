@@ -318,27 +318,48 @@
 
 
 /* Updated typography overrides */
+.invite-person-box {
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+}
+.invite-with::before,
+.invite-with::after {
+  display: none !important;
+  content: none !important;
+}
 .venue-name, .card-soft .p-5 > h3 {
-  font-family: 'Great Vibes', 'Petit Formal Script', cursive !important;
-  font-size: clamp(2.35rem, 6.8vw, 3.1rem) !important;
-  font-weight: 400 !important;
-  color: #7b5629 !important;
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-size: clamp(1.55rem, 4.4vw, 1.95rem) !important;
+  font-weight: 600 !important;
+  color: #4a3424 !important;
   line-height: 1.25 !important;
   letter-spacing: 0.02em !important;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8) !important;
 }
+.section-title-italic,
+section .text-center > h2.font-display {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-style: italic !important;
+  font-size: clamp(2.15rem, 6.2vw, 2.75rem) !important;
+  font-weight: 500 !important;
+  line-height: 1.2 !important;
+  letter-spacing: 0.02em !important;
+}
 .save-our-date-title, .card-soft p.script, p.script.text-primary {
-  font-family: 'Great Vibes', 'Petit Formal Script', cursive !important;
-  font-size: clamp(2.75rem, 7.8vw, 3.5rem) !important;
-  font-weight: 400 !important;
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-style: italic !important;
+  font-size: clamp(2.15rem, 6.2vw, 2.75rem) !important;
+  font-weight: 500 !important;
   line-height: 1.2 !important;
   color: #b58d4a !important;
+  letter-spacing: 0.02em !important;
   display: block !important;
   margin-bottom: 0.5rem !important;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.85) !important;
 }
 .footer-wait-title, .footer-scene p.script {
-  font-family: 'Great Vibes', 'Petit Formal Script', cursive !important;
+  font-family: 'Great Vibes', 'Allura', cursive !important;
   font-size: clamp(2.35rem, 6.8vw, 3.15rem) !important;
   font-weight: 400 !important;
   line-height: 1.25 !important;
@@ -348,19 +369,20 @@
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.85) !important;
 }
 .footer-couple-name, .footer-scene h2.font-display {
-  font-family: 'Great Vibes', 'Petit Formal Script', cursive !important;
+  font-family: 'Great Vibes', 'Allura', cursive !important;
   font-size: clamp(3.2rem, 9.5vw, 4.4rem) !important;
   font-weight: 400 !important;
   line-height: 1.15 !important;
-  color: #7b5629 !important;
+  color: #882434 !important;
   letter-spacing: 0.02em !important;
   text-shadow: 0 1px 2px rgba(255, 255, 255, 0.9) !important;
 }
 .footer-couple-name .footer-amp,
 .footer-couple-name .script,
 .footer-scene h2 .script {
-  font-family: 'Great Vibes', cursive !important;
-  font-size: 0.9em !important;
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-style: italic !important;
+  font-size: 0.85em !important;
   color: #b58d4a !important;
-  margin: 0 0.15em !important;
+  margin: 0 0.2em !important;
 }
