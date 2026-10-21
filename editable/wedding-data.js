@@ -11,6 +11,11 @@ window.WEDDING_DATA = {
     brideParents: "A Sandhya Prasad & R Venkatesh Prasad",
     groomParents: "Sumana T & Surendranath W",
     compliments: "Amrutha V",
+    family: [
+      "Amith & Rohith",
+      "Srinidhi & Soumya",
+      "Prathik & Aishwarya",
+    ],
   },
 
   wedding: {
@@ -54,6 +59,11 @@ window.WEDDING_DATA = {
     brideParents: "A Sandhya Prasad & R Venkatesh Prasad",
     groomParents: "Sumana T & Surendranath W",
     compliments: "Amrutha V",
+    family: [
+      "Amith & Rohith",
+      "Srinidhi & Soumya",
+      "Prathik & Aishwarya",
+    ],
   },
 
   images: {
