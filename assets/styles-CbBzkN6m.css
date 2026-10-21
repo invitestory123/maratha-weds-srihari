@@ -214,8 +214,12 @@
   letter-spacing: 0.04em !important;
 }
 .footer-scene .space-y-1\.5 p {
-  color: #7b5629 !important;
-  font-weight: 500 !important;
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  color: #4a3424 !important;
+  font-size: clamp(0.85rem, 2.8vw, 1.22rem) !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.01em !important;
+  white-space: nowrap !important;
 }
 
 
