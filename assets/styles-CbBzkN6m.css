@@ -168,10 +168,10 @@
   font-size: clamp(2.4rem, 6.8vw, 3.2rem) !important;
   font-weight: 400 !important;
   line-height: 1.2 !important;
-  color: #b58d4a !important;
+  color: var(--foreground) !important;
   display: block !important;
   margin-bottom: 0.4rem !important;
-  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8) !important;
+  text-shadow: none !important;
 }
 .footer-wait-title {
   font-family: 'Allura', 'Great Vibes', cursive !important;
@@ -310,7 +310,7 @@
   font-size: clamp(2.2rem, 6.5vw, 2.8rem) !important;
   font-weight: 400 !important;
   line-height: 1.2 !important;
-  color: #b58d4a !important;
+  color: var(--foreground) !important;
   display: block !important;
   margin-bottom: 0.4rem !important;
 }
@@ -357,17 +357,17 @@ section .text-center > h2.font-display {
   line-height: 1.2 !important;
   letter-spacing: 0.02em !important;
 }
-.save-our-date-title, .card-soft p.script, p.script.text-primary {
+.save-our-date-title, .card-soft .save-our-date-title, .card-soft p.script {
   font-family: 'Cormorant Garamond', Georgia, serif !important;
   font-style: italic !important;
   font-size: clamp(2.15rem, 6.2vw, 2.75rem) !important;
   font-weight: 500 !important;
   line-height: 1.2 !important;
-  color: #b58d4a !important;
+  color: var(--foreground) !important;
   letter-spacing: 0.02em !important;
   display: block !important;
   margin-bottom: 0.5rem !important;
-  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.85) !important;
+  text-shadow: none !important;
 }
 .footer-wait-title, .footer-scene p.script {
   font-family: 'Great Vibes', 'Allura', cursive !important;
